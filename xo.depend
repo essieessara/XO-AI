@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482586146 source:c:\users\royall\desktop\xo\main.cpp
+	<windows.h>
+	<iostream>
+
+1483012837 source:e:\pdf and words\projects\ai\xo\main.cpp
+	<windows.h>
+	<iostream>
+
